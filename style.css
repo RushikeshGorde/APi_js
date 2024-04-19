@@ -138,7 +138,7 @@ h1 {
 }
 /* Add to Cart button styling */
 .add-to-cart-btn {
-    background-color: #4CAF50; /* Green background */
+    background-color: #4ca2af; /* Green background */
     color: white; /* White text color */
     border: none; /* No border */
     padding: 10px 20px; /* Padding */
@@ -152,7 +152,7 @@ h1 {
 }
 
 .add-to-cart-btn:hover {
-    background-color: #45a049; /* Darker green on hover */
+    background-color: #4ca2af; /* Darker green on hover */
 }
 
 
